@@ -1,0 +1,23 @@
+{
+  "name": "agents-setting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KunLunXu-CC/agents-setting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KunLunXu-CC/agents-setting/issues"
+  },
+  "homepage": "https://github.com/KunLunXu-CC/agents-setting#readme",
+  "dependencies": {
+    "skills": "^1.4.5"
+  }
+}
